@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\programming\graphics\g2\g2\main.cpp(116): warning C4101: width: неиспользованная локальная переменная
+  g2.vcxproj -> C:\programming\Graphics\g2\Debug\g2.exe

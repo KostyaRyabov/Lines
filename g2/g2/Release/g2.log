@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\programming\graphics\g2\g2\main.cpp(116): warning C4101: width: неиспользованная локальная переменная
+  Создание кода
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  g2.vcxproj -> C:\programming\Graphics\g2\Release\g2.exe
